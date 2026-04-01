@@ -22,7 +22,7 @@ Nuestro equipo trabajó de forma distribuida cumpliendo con 2 commits por integr
 * **Fabio (Maquetación y Footer):** Finalizó las secciones de catálogo y ajustes estéticos finales.
 
 ## 🛠️ Instalación y Uso
-1. Clonar el repositorio: `git clone [url]`
+1. Clonar el repositorio: `git clone [https://github.com/Jhonnyer-O/Grupo-2.git]`
 2. Abrir el archivo `index.html` en cualquier navegador moderno.
 
 ---
