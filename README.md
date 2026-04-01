@@ -18,6 +18,7 @@ Nuestro equipo trabajó de forma distribuida cumpliendo con 2 commits por integr
 * **Jhonnyer (Líder Técnico):** Responsable de la estructura base y la navegación del sitio.
 * **Maribel (Documentación y Contenido):** Encargada del despliegue de información y el manual técnico en Markdown.
 * **Andres (Diseño Visual):** Desarrolló la paleta de colores y la interfaz de las tarjetas de productos.
+* **William (Maquetacion del sistema de contacto):** Implementación del módulo de ofertas especiales y el sistema de contacto de clientes.
 * **Fabio (Maquetación y Footer):** Finalizó las secciones de catálogo y ajustes estéticos finales.
 
 ## 🛠️ Instalación y Uso
